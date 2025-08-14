@@ -1,4 +1,4 @@
-# TelecomX — Evasión de Clientes (Churn) — ETL y Exploración (sin ML)
+# TelecomX — Evasión de Clientes (Churn) — ETL y Exploración
 
 ## 1) Objetivo
 Preparar un dataset **limpio** y **documentado** de churn (evasión de clientes) para una siguiente etapa de **Machine Learning**.  
