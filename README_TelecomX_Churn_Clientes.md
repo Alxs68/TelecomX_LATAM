@@ -47,5 +47,4 @@ Todo el código, variables y comentarios están en **español**, pensado para qu
 - Seaborn
 - Plotly
 
-## 📄 Autor
-Analizado y documentado por el equipo de **TelecomX Data Analytics**.
+
